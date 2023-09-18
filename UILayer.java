@@ -14,4 +14,6 @@ public interface UILayer {
 
     void renderModel(int i);
 
+    void removeModel();
+
 }
